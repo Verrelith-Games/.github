@@ -1,88 +1,88 @@
 <!--
-  VERRELITH GAMES — GitHub Organization Profile README
-  Location: public repo named `.github` → `profile/README.md`
-  Renders at: https://github.com/Verrelith-Games
+  VERRELITH GAMES — GitHub organization profile (public)
+  Repo `.github` → profile/README.md · renders at https://github.com/Verrelith-Games
 
-  Copy slots are marked [COPY: ...]. HTML comments like this one never render on GitHub.
-  Brand palette (Crimson): Verrelith Crimson #FF1F3D · Oxblood #7A0A18 · Void Black #0A0908
-                           Ash Steel #A0A4AC · Bone Highlight #FFF1EE · Molten Gold #FFA726
+  Rebuilt 2026-09-24 to match the studio's forge branding: the studio banner,
+  the crimson palette, and only facts the website already states (one-person
+  studio, the six announced games, the Mark of Quality, launch in Fall 2028).
+  Palette: Crimson #FF1F3D · Oxblood #7A0A18 · Void #0A0908 · Ash #A0A4AC ·
+  Bone #FFF1EE · Molten Gold #FFA726 (rare accents only).
+  HTML comments never render on GitHub.
 -->
 
 <div align="center">
 
-<!-- Wordmark: auto-swaps for GitHub light/dark themes. Drop both files into profile/assets/ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/verrelith-wordmark-light.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/verrelith-wordmark-dark.png">
-  <img alt="Verrelith Games" src="./assets/verrelith-wordmark-dark.png" width="480">
-</picture>
+<a href="https://verrelithgames.com"><img src="./assets/verrelith-games-banner.png" alt="Verrelith Games — Forging Worlds. Beyond Imagination." width="100%"></a>
 
-### *Forging Worlds. Beyond Imagination.*
+<br>
 
-[![Website](https://img.shields.io/badge/verrelithgames.com-FF1F3D?style=for-the-badge&logo=googlechrome&logoColor=FFF1EE)](https://verrelithgames.com)
-[![YouTube](https://img.shields.io/badge/YouTube-7A0A18?style=for-the-badge&logo=youtube&logoColor=FFF1EE)](https://www.youtube.com/@VerrelithGames)
-[![Bluesky](https://img.shields.io/badge/Bluesky-7A0A18?style=for-the-badge&logo=bluesky&logoColor=FFF1EE)](https://bsky.app/profile/verrelithgames.com)
-[![Mastodon](https://img.shields.io/badge/Mastodon-7A0A18?style=for-the-badge&logo=mastodon&logoColor=FFF1EE)](https://mastodon.social/@verrelithgames)
-[![itch.io](https://img.shields.io/badge/itch.io-7A0A18?style=for-the-badge&logo=itchdotio&logoColor=FFF1EE)](https://verrelithgames.itch.io)
+[![verrelithgames.com](https://img.shields.io/badge/verrelithgames.com-FF1F3D?style=for-the-badge&logo=googlechrome&logoColor=FFF1EE)](https://verrelithgames.com) [![YouTube](https://img.shields.io/badge/YouTube-7A0A18?style=for-the-badge&logo=youtube&logoColor=FFF1EE)](https://www.youtube.com/@VerrelithGames) [![Twitch](https://img.shields.io/badge/Twitch-7A0A18?style=for-the-badge&logo=twitch&logoColor=FFF1EE)](https://www.twitch.tv/verrelithgames) [![Bluesky](https://img.shields.io/badge/Bluesky-7A0A18?style=for-the-badge&logo=bluesky&logoColor=FFF1EE)](https://bsky.app/profile/verrelithgames.com) [![Mastodon](https://img.shields.io/badge/Mastodon-7A0A18?style=for-the-badge&logo=mastodon&logoColor=FFF1EE)](https://mastodon.social/@verrelithgames) [![Instagram](https://img.shields.io/badge/Instagram-7A0A18?style=for-the-badge&logo=instagram&logoColor=FFF1EE)](https://www.instagram.com/verrelithgames/) [![Threads](https://img.shields.io/badge/Threads-7A0A18?style=for-the-badge&logo=threads&logoColor=FFF1EE)](https://www.threads.com/@verrelithgames) [![itch.io](https://img.shields.io/badge/itch.io-7A0A18?style=for-the-badge&logo=itchdotio&logoColor=FFF1EE)](https://verrelithgames.itch.io)
+
+**The full site opens in Fall 2028.**
 
 </div>
 
----
+<img src="./assets/forge-line.svg" alt="" width="100%">
 
-## About the Studio
+## Who we are
 
-Verrelith Games is an indie game development studio dedicated to creating immersive and innovative gaming experiences.
+**A small, independent studio building worlds worth getting lost in.**
 
-[COPY: Studio introduction, 2–4 sentences]
-<!-- Stated identity to draw from: small indie studio; storytelling, experience-building, gameplay craft;
-     made with love and human creativity; games and stories stay human-made, told through human voices. -->
+Verrelith Games pairs strong narrative foundations with systems-driven design, so the choices you make ripple outward — across science fiction, fantasy and horror. We treat players as collaborators, not consumers, and we build the kind of worlds we'd want to disappear into ourselves.
 
-## What We Stand For
+The studio is **one person**, founded in **2026**, working remotely from the United States.
 
-[COPY: Studio pillars]
-<!-- Stated philosophy to draw from: no half-baked releases · no live-service model · no forced shared universes ·
-     no mandated release dates — delays over deadlines, dates announced only when ready · linear, crafted games. -->
+<img src="./assets/forge-line.svg" alt="" width="100%">
 
-<!-- Optional: link out once the page is live
-Learn more about the **[Mark of Quality](https://verrelithgames.com/[mark-of-quality-path])**. -->
+## Our worlds
 
-## Our Worlds
-
-[COPY: Teaser line — no titles until officially announced]
-<!-- Keep project titles, codenames, and production codes out of this file until each is publicly announced.
-     When ready, use the table below. -->
-
-<!--
-| Project | Genre | Status |
+| Game | Universe | Site |
 |:--|:--|:--|
-| [Project A] | [Genre] | [In development / Announced] |
--->
+| **Vitrexis** | Elderblade | [vitrexis.com](https://vitrexis.com) |
+| **Elderblade** | Elderblade | [elderblade.com](https://elderblade.com) |
+| **FREEDOM** | FREEDOM | [freedomsaga.com](https://freedomsaga.com) |
+| **Vance Corvin** | Vance Corvin | [vancecorvin.com](https://vancecorvin.com) |
+| **Ashen Requiem** | Ashen Requiem | [ashenrequiem.com](https://ashenrequiem.com) |
+| **The Netheris Witch** | Elderblade | [netheriswitch.com](https://netheriswitch.com) |
 
-## Repositories
+Each game has its own site, where its details arrive as it is shown.
 
-<!-- The org has no public repositories yet. Uncomment and fill as repos go public. -->
-<!--
-| Repository | Description |
-|:--|:--|
-| [`<repoName>`](https://github.com/Verrelith-Games/<repoName>) | [One-line description] |
--->
+<img src="./assets/forge-line.svg" alt="" width="100%">
 
-[COPY: Placeholder line while no public repos exist, or remove this section]
+## What we stand for
 
-## Connect
+- **Story-first, system-deep.** Cinematic arcs held up by expressive mechanics. The world reacts; the player shapes it.
+- **Respect for your time.** Clear goals, meaningful progression, optional mastery. No dark patterns, no artificial grind.
+- **Accessible by design.** Subtitles, comfort options, scalable UI and input flexibility as first-class features — never afterthoughts.
+- **Ship when it's ready.** We'd rather miss a date than miss the mark. Quality is the gate.
+- **Human-made.** Nothing generated or edited by an AI model reaches players — in the games or the marketing around them. That is the **[Verrelith Mark of Quality](https://verrelithgames.com/mark-of-quality)**, a published standard.
+- **What we don't do:** live-service treadmills, procedural everything, or crunch as a milestone strategy.
+
+<img src="./assets/forge-line.svg" alt="" width="100%">
+
+## VITHRO UI
+
+**[vithro.com](https://vithro.com)** — the studio's own interface language: one grammar of spacing, type, motion and state logic behind every Verrelith game, so players learn one system once and carry it everywhere. Every world gets its own light.
+
+<img src="./assets/forge-line.svg" alt="" width="100%">
+
+## Get in touch
 
 <div align="center">
 
-**[Website](https://verrelithgames.com)** · **[YouTube](https://www.youtube.com/@VerrelithGames)** · **[Bluesky](https://bsky.app/profile/verrelithgames.com)** · **[Mastodon](https://mastodon.social/@verrelithgames)** · **[Instagram](https://www.instagram.com/verrelithgames)** · **[Threads](https://www.threads.net/@verrelithgames)** · **[itch.io](https://verrelithgames.itch.io)**
+| For | Write to |
+|:--|:--|
+| **Press & business** | [press@verrelithgames.com](mailto:press@verrelithgames.com) |
+| **Help & support** | [support@verrelithgames.com](mailto:support@verrelithgames.com) |
+| **Security reports** | [security@verrelithgames.com](mailto:security@verrelithgames.com) |
 
-<!-- Press / business contact -->
-[COPY: Contact line] — [contact email]
+Every email is read by a person.
 
 </div>
 
----
+<br>
 
 <div align="center">
-<sub><i>The Forge Behind the Worlds.</i></sub><br>
-<sub>© Verrelith Games. All rights reserved.</sub>
+<sub><i>Forging Worlds. Beyond Imagination.</i></sub><br>
+<sub>© 2026 Verrelith Games, LLC. All rights reserved.</sub>
 </div>
